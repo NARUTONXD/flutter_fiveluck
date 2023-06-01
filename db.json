@@ -9,7 +9,8 @@
         "TR",
         "BR",
         "HK",
-        "PH"
+        "PH",
+        "JP"
       ],
       "Event":[
         "adj_complete_registration",
